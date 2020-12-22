@@ -1,4 +1,4 @@
-# vogue
+# vogue - pc 端电商网站 慕课网
 
 > A Vue.js project
 
